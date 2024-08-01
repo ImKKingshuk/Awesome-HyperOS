@@ -1,20 +1,19 @@
-# Awesome-HyperOS
+<h1 align="center">Awesome-HyperOS</h1>
 
-A curated list of awesome resources, tools, guides, and mods for Xiaomi's HyperOS. This collection aims to help users and developers make the most out of their HyperOS devices.
+<p align="center">A curated list of awesome resources, tools, guides, and mods for Xiaomi's HyperOS. This collection aims to help users and developers make the most out of their HyperOS devices.</p>
 
-![HyperOS Logo](/hyperos-logo.png)
+![HyperOS Logo](/XiaomiHyperOS.png)
 
 ## Contents
 
-- [Awesome-HyperOS](#awesome-hyperos)
-  - [Contents](#contents)
-  - [Introduction](#introduction)
-  - [Official Resources](#official-resources)
-  - [Custom ROMs and Mods](#custom-roms-and-mods)
-    - [Popular Custom ROMs](#popular-custom-roms)
-    - [Mods and Tweaks](#mods-and-tweaks)
-  - [Tools and Utilities](#tools-and-utilities)
-  - [Community and Support](#community-and-support)
+- [Contents](#contents)
+- [Introduction](#introduction)
+- [Official Resources](#official-resources)
+- [Custom ROMs and Mods](#custom-roms-and-mods)
+  - [Popular Custom ROMs](#popular-custom-roms)
+  - [Mods and Tweaks](#mods-and-tweaks)
+- [Tools and Utilities](#tools-and-utilities)
+- [Community and Support](#community-and-support)
 
 ## Introduction
 
