@@ -71,9 +71,10 @@ HyperOS is Xiaomi's latest operating system, offering a sleek and customizable u
 
 ## Mods and Tweaks
 
-- [HyperOS MODs Center](https://github.com/orgs/Mods-Center/repositories)
+- [HyperOS Mods Center](https://github.com/orgs/Mods-Center/repositories)
 - [HyperCeiler](https://github.com/ReChronoRain/HyperCeiler)
-- [LLions HyperOS Mods](https://t.me/s/llionsmods)
+- [LLions HyperOS Mods](https://t.me/llionsmods)
+- [Satan HyperOS Mods](https://t.me/SatanModss)
 
 ## Tools and Utilities
 
