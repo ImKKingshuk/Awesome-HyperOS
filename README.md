@@ -78,6 +78,10 @@ HyperOS is Xiaomi's latest operating system, offering a sleek and customizable u
 
 ## Rooting Tools
 
+- [Magisk](https://github.com/topjohnwu/Magisk)
+- [Magisk](https://xdaforums.com/hyperos)
+- [Magisk](https://xdaforums.com/hyperos)
+
 ## Community and Support
 
 - [HyperOS XDA Forum](https://xdaforums.com/hyperos)
