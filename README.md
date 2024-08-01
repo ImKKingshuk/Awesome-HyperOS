@@ -9,6 +9,8 @@
 - [Contents](#contents)
 - [Introduction](#introduction)
 - [Official Resources](#official-resources)
+  - [Official Websites](#official-websites)
+  - [Official ROM Downloads](#official-rom-downloads)
 - [Custom ROMs and Mods](#custom-roms-and-mods)
   - [Popular Custom ROMs](#popular-custom-roms)
   - [Mods and Tweaks](#mods-and-tweaks)
@@ -21,19 +23,24 @@ HyperOS is Xiaomi's latest operating system, offering a sleek and customizable u
 
 ## Official Resources
 
+### Official Websites
+
 - [Official HyperOS Global Website ](https://www.mi.com/global/hyperos)
 - [Official HyperOS China Website ](https://hyperos.mi.com)
+
+### Official ROM Downloads
 
 ## Custom ROMs and Mods
 
 ### Popular Custom ROMs
 
+### Mods and Tweaks
+
 - **HyperOS-Launcher**: A customized launcher with added features and UI changes.
+
   - [Repository](https://github.com/Mods-Center/HyperOS-Launcher)
   - Features include a pile-up recents view, various new modifications, and bug fixes.
   - Installation: Download and flash the zip file in Magisk.
-
-### Mods and Tweaks
 
 - **HyperSploit**: Bypass HyperOS bootloader unlocking restrictions.
   - Discussed on [XDA Forums](https://xdaforums.com/t/hypersploit-bypass-hyperos-bootloader-unlocking-restrictions)
