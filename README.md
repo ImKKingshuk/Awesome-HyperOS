@@ -14,7 +14,7 @@
   - [Official ROM Downloads](#official-rom-downloads)
 - [HyperOS Custom ROMs](#hyperos-custom-roms)
 - [Mods and Tweaks](#mods-and-tweaks)
-- [Tools and Utilities](#tools-and-utilities)
+- [Rooting Tools](#rooting-tools)
 - [Community and Support](#community-and-support)
 
 ## Introduction
@@ -76,17 +76,12 @@ HyperOS is Xiaomi's latest operating system, offering a sleek and customizable u
 - [LLions HyperOS Mods](https://t.me/llionsmods)
 - [Satan HyperOS Mods](https://t.me/SatanModss)
 
-## Tools and Utilities
-
-- **Magisk Modules**: Essential for customizing HyperOS.
-
-  - Note: Ensure compatibility with your version of Magisk.
-
-- **Core Patch LSPosed Module**: Necessary for disabling APK signature verification.
+## Rooting Tools
 
 ## Community and Support
 
-- **XDA Forums**: Join discussions, get support, and share your mods.
-  - [HyperOS XDA Forum](https://xdaforums.com/hyperos)
-- **Reddit**: Participate in the HyperOS subreddit for community tips and tricks.
-  - [r/HyperOS](https://www.reddit.com/r/HyperOS)
+- [HyperOS XDA Forum](https://xdaforums.com/hyperos)
+
+- [HyperOS Reddit](https://www.reddit.com/r/HyperOS)
+
+- [Xiaomi.EU Community](https://xiaomi.eu/community/)
