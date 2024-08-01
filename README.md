@@ -1,6 +1,6 @@
 <h1 align="center">Awesome-HyperOS</h1>
 
-<p align="center">A curated list of awesome resources, tools, guides, and mods for Xiaomi HyperOS. This collection aims to help users and developers make the most out of their HyperOS devices.</p>
+<p align="center">A curated list of awesome resources, tools, customroms, modules, guides, and mods for Xiaomi HyperOS. This collection aims to help users and developers make the most out of their HyperOS devices.</p>
 
 ![HyperOS Logo](/XiaomiHyperOS.png)
 
