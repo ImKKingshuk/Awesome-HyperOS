@@ -31,6 +31,9 @@ HyperOS is Xiaomi's latest operating system, offering a sleek and customizable u
 
 ### Official Community
 
+- [Official Xiaomi Global Community ](https://c.mi.com/global)
+- [Official Xiaomi China Community ](https://c.mi.com)
+
 ### Official ROM Downloads
 
 ## Custom ROMs and Mods
