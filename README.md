@@ -10,6 +10,7 @@
 - [Introduction](#introduction)
 - [Official Resources](#official-resources)
   - [Official Websites](#official-websites)
+  - [Official Communitys](#official-communitys)
   - [Official ROM Downloads](#official-rom-downloads)
 - [Custom ROMs and Mods](#custom-roms-and-mods)
   - [Popular Custom ROMs](#popular-custom-roms)
@@ -27,6 +28,8 @@ HyperOS is Xiaomi's latest operating system, offering a sleek and customizable u
 
 - [Official HyperOS Global Website ](https://www.mi.com/global/hyperos)
 - [Official HyperOS China Website ](https://hyperos.mi.com)
+
+### Official Communitys
 
 ### Official ROM Downloads
 
