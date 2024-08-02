@@ -16,6 +16,7 @@
 - [Mods and Tweaks](#mods-and-tweaks)
 - [Rooting Tools](#rooting-tools)
 - [Community and Support](#community-and-support)
+- [Contributing](#contributing)
 
 ## Introduction
 
@@ -87,3 +88,7 @@ HyperOS is Xiaomi's latest operating system, offering a sleek and customizable u
 - [HyperOS XDA Forum](https://xdaforums.com/hyperos)
 - [HyperOS Reddit](https://www.reddit.com/r/HyperOS)
 - [Xiaomi.EU Community](https://xiaomi.eu/community/)
+
+## Contributing
+
+Contributions are welcome! If you have any resources, tools, or libraries that you would like to add to this list, please submit a pull request or open an issue.
