@@ -30,6 +30,7 @@
   - [Official ROM Downloads](#official-rom-downloads)
 - [HyperOS Custom ROMs](#hyperos-custom-roms)
 - [Mods and Tweaks](#mods-and-tweaks)
+- [Themes and Customization](#themes-and-customization)
 - [Rooting Tools](#rooting-tools)
 - [Community and Support](#community-and-support)
 
@@ -89,6 +90,10 @@
 - [HyperCeiler](https://github.com/ReChronoRain/HyperCeiler)
 - [LLions HyperOS Mods](https://t.me/llionsmods)
 - [Satan HyperOS Mods](https://t.me/SatanModss)
+
+## Themes and Customization
+
+- [Mobile Lover](https://www.mobilelover.in/) - HyperOS & MIUI themes, iOS-style MTZ files, wallpapers and charging animations with install guides.
 
 ## Rooting Tools
 
